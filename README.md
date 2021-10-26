@@ -1,0 +1,1 @@
+This is a JobPortal website. Any company can post their openings. Any UG candidate can apply for jobs and internships.
